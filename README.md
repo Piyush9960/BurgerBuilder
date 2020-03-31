@@ -1,7 +1,16 @@
 ## Application is live , please have a look at https://react-my-burger-86716.firebaseapp.com/
 
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Technologies used:
+01. React js library,
+02. react-router-dom,
+03. CSS-module,
+04. react-router-transition,
+05. react-redux,
+06. redux-thunk,
+07. Middleware,
+08. Responsive web app,
+09. Firebase for Authentication, db, & server side business logic,
+10. Deployed at firebase.com
 
 ## Available Scripts
 
